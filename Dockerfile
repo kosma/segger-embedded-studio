@@ -1,4 +1,4 @@
-ARG VERSION=4.18
+ARG VERSION=4.50
 
 FROM vicarahq/segger-embedded-studio:$VERSION
 
